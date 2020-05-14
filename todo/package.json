@@ -54,5 +54,9 @@
     "trailingComma": "all",
     "bracketSpacing": false,
     "jsxBracketSameLine": true
+  },
+  "peerDependencies": {
+    "acorn": "^7.2.0",
+    "minimist": "^0.2.1"
   }
 }
